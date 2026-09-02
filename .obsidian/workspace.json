@@ -1,83 +1,56 @@
 {
   "main": {
-    "id": "759c290eb665bb90",
+    "id": "73e3fe2aa87eac6d",
     "type": "split",
     "children": [
       {
-        "id": "0d7583f4648a5847",
+        "id": "a0c4898ce5d0eec2",
         "type": "tabs",
         "children": [
           {
-            "id": "f00c42e651824629",
+            "id": "3c8161309a740c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/MARKDOWN操作指南.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MARKDOWN操作指南"
-            }
-          },
-          {
-            "id": "4995d970627bc969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文献笔记/雪崩论文/GPT笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPT笔记"
-            }
-          },
-          {
-            "id": "c720b309de7c3be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/Conda使用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conda使用"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "923a58b27a632e07",
+    "id": "cb71cfeb819d66eb",
     "type": "split",
     "children": [
       {
-        "id": "206cb4ab3bf55628",
+        "id": "e6b0ab8d0b1ecc34",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae3624164faf8a9",
+            "id": "e533d5cf5875afa1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "3e4f71db104911ee",
+            "id": "abcb04c56a9d15ef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,11 +67,14 @@
             }
           },
           {
-            "id": "a1b15dc158c7db1e",
+            "id": "5737a2c6727b8eb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -110,20 +86,19 @@
     "width": 300
   },
   "right": {
-    "id": "98314714250fb5ef",
+    "id": "b3014fdc98c58bbe",
     "type": "split",
     "children": [
       {
-        "id": "c103a25eb7e37cb5",
+        "id": "83b98ef1b666ec6e",
         "type": "tabs",
         "children": [
           {
-            "id": "a35dc6437a09873f",
+            "id": "1887da87f7ea9009",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础知识/工程力学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工程力学 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "670271ae6cb37af0",
+            "id": "c57b136856598a5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第二个.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "e91beaa72a1fe5bb",
+            "id": "1f6e5d02e69fc163",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +140,7 @@
             }
           },
           {
-            "id": "5272849ad8ee8794",
+            "id": "d1aa76557e08f3d1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,81 +154,75 @@
             }
           },
           {
-            "id": "2aea2aa5e0d9ef3e",
+            "id": "a644f99ac09fb79f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础知识/Conda使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Conda使用 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c720b309de7c3be5",
+  "active": "3c8161309a740c49",
   "lastOpenFiles": [
+    "欢迎.md",
+    "笔记目录.base",
     "基础知识/MARKDOWN操作指南.md",
-    "文献笔记/雪崩论文/GPT笔记.md",
+    "书本/思考,_快与慢_=_Thinking,_Fast_and_Slow_美_z_library_sk,_1lib_sk,.epub",
+    "书本",
+    "思考,_快与慢_=_Thinking,_Fast_and_Slow_美_z_library_sk,_1lib_sk,.epub",
+    "基础知识/git使用.md",
+    "基础知识/Conda使用.md",
+    "基础知识/扩展脚本.md",
+    "基础知识/工程力学.md",
+    "机器学习/陕西.md",
+    "机器学习/广州.md",
+    "README.md",
+    "AsLine_v4.0_CAD地形图切剖面辅助插件.zip",
+    "娱乐/饥荒管理后台.md",
+    "娱乐/饥荒勋章.md",
+    "娱乐/巫师地图.md",
+    "娱乐",
     "文献笔记/雪崩论文/雪崩笔记.md",
     "文献笔记/雪崩论文/雪崩.md",
-    "机器学习/广州.md",
-    "机器学习/陕西.md",
+    "文献笔记/雪崩论文/GPT笔记.md",
+    "文献笔记/雪崩论文",
+    "文献笔记",
+    "基础知识",
     "机器学习",
-    "笔记目录.base",
-    "未命名 1.base",
-    "基础知识/扩展脚本.md",
-    "附件文件夹/Pasted image 20260320204717.png",
-    "Pasted image 20260320152604.png",
-    "Pasted image 20260320152424.png",
-    "Pasted image 20260320152142.png",
-    "Pasted image 20260320145549.png",
-    "Pasted image 20260320145348.png",
+    "附件文件夹/巫师地图.jpg",
     "附件文件夹/Pasted image 20260320225541.png",
     "附件文件夹/Pasted image 20260320224923.png",
     "附件文件夹/Pasted image 20260320223323.png",
     "附件文件夹/Pasted image 20260320221926.png",
-    "README.md",
-    "娱乐/饥荒管理后台.md",
-    "娱乐/饥荒勋章.md",
-    "娱乐/巫师地图.md",
-    "基础知识/工程力学.md",
-    "基础知识/Conda使用.md",
-    "基础知识/git使用.md",
-    "欢迎.md",
-    "文献笔记",
-    "娱乐",
-    "Obsidian/新建 文本文档.txt",
-    "Obsidian/README.md",
-    "Obsidian",
-    "CAD插件.md",
-    "AsLine_v4.0_CAD地形图切剖面辅助插件.zip",
-    "文献笔记/雪崩论文",
-    "创建链接.md",
-    "基础知识",
-    "未命名.canvas",
-    "第二个.md"
+    "附件文件夹/Pasted image 20260320221735.png",
+    "附件文件夹/Pasted image 20260320220149.png",
+    "附件文件夹/Pasted image 20260320205849.png",
+    "附件文件夹/Pasted image 20260320204825.png",
+    "附件文件夹/Pasted image 20260320204717.png"
   ]
 }
