@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "机器学习/论文笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "论文笔记"
             }
           }
         ]
@@ -99,12 +99,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "安装软件/安装ravaflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -159,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "机器学习/论文笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,12 +169,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,19 +191,23 @@
   },
   "active": "3c8161309a740c49",
   "lastOpenFiles": [
+    "机器学习/陕西.md",
+    "机器学习/论文笔记.md",
+    "机器学习/广州.md",
+    "安装软件/安装ravaflow.md",
     "欢迎.md",
+    "README.md",
+    "安装软件/MARKDOWN操作指南.md",
+    "安装软件/扩展脚本.md",
+    "安装软件/git使用.md",
+    "安装软件/Conda使用.md",
+    "安装软件.md",
+    "安装软件",
     "笔记目录.base",
-    "基础知识/MARKDOWN操作指南.md",
     "书本/思考,_快与慢_=_Thinking,_Fast_and_Slow_美_z_library_sk,_1lib_sk,.epub",
     "书本",
     "思考,_快与慢_=_Thinking,_Fast_and_Slow_美_z_library_sk,_1lib_sk,.epub",
-    "基础知识/git使用.md",
-    "基础知识/Conda使用.md",
-    "基础知识/扩展脚本.md",
     "基础知识/工程力学.md",
-    "机器学习/陕西.md",
-    "机器学习/广州.md",
-    "README.md",
     "AsLine_v4.0_CAD地形图切剖面辅助插件.zip",
     "娱乐/饥荒管理后台.md",
     "娱乐/饥荒勋章.md",
@@ -213,7 +219,6 @@
     "文献笔记/雪崩论文",
     "文献笔记",
     "基础知识",
-    "机器学习",
     "附件文件夹/巫师地图.jpg",
     "附件文件夹/Pasted image 20260320225541.png",
     "附件文件夹/Pasted image 20260320224923.png",

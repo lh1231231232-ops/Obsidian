@@ -1,2 +1,0 @@
-# Lhx
-my obsidian notes
